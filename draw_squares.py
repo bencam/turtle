@@ -8,7 +8,7 @@ def draw_square(some_turtle):
 def draw_multiple_squares():
     #Set up screen, etc.
     window = turtle.Screen()
-    window.bgcolor('gray')
+    window.bgcolor('black')
 
     #Brad
     brad = turtle.Turtle()
